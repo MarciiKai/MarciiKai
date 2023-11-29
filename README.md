@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.makeagif.com/media/11-20-2015/yqut4T.gif))]
+![MasterHead]([https://i.makeagif.com/media/11-20-2015/yqut4T.gif))
 <h1 align="center">Hi there👋, I'm Kai</h1>
 <h3 align="center">I have a passion for building secure and efficient software solutions.</h3>
 - 🌱 I’m currently learning **Electron**
