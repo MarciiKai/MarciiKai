@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Electron**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mercy-kai-a62121257/**
-<img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="mercy kai" height="360" width="200" />
+<img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="mercy kai" height="360" width="360" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
