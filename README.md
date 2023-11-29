@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="mercy kai" height="60" width="100" />
+<img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="mercy kai" height="360" width="200" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
