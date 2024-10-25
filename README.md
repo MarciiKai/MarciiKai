@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Kai</h1>
 <h3 align="center">I have a passion for building secure and efficient software solutions.</h3>
-- 🌱 I’m currently learning **Electron**
+- 🌱 I’m currently learning **Laravel
+**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mercy-kai-a62121257/**
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="mercy kai" height="360" width="360" />
